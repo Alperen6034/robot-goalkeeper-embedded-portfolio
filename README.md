@@ -17,7 +17,7 @@ verification methods and my individual contributions.
 ## System Architecture
 
 ```text
-Dual Camera System
+Single Camera System
         |
         v
 Raspberry Pi 5
